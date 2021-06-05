@@ -25,5 +25,5 @@
 
 ---
 
-github address: [jangjh12][github]
+github adress: [jangjh12][github]
 [github]:http://github.com/jangjh12
