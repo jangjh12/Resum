@@ -24,3 +24,6 @@
 * 정보처리기사
 
 ---
+
+github address: [jangjh12][github]
+[github]:http://github.com/jangjh12
