@@ -5,9 +5,12 @@
 
 ---
 
-소속 : 소프트웨어 융합대학 
+소속 : 소프트웨어 융합대학
+
 전공 : 빅데이터 학과
+
 학번 : 20185160 
+
 학년 : 2
 
 관심분야
@@ -25,5 +28,5 @@
 
 ---
 
-github adress: [jangjh12][github]
-[github]:http://github.com/jangjh12
+github adress: [jangjh12](github)
+(github):http://github.com/jangjh12
