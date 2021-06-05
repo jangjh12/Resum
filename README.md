@@ -23,5 +23,4 @@
 * 정보처리산업기사
 * 정보처리기사
 
-github address: [jangjh12][github]
-[github]:http://github.com/jangjh12
+---
